@@ -22,4 +22,4 @@ Internal server error;
 
 End Point -
 
-http://full-stack-app-aws-dev-env.eba-giedptuf.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
+http://full-stack-app-aws-dev-env-1.eba-hzhdwwzs.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
